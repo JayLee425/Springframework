@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.factory.xml.SchemaValidationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:42" hostname="jaydeMacBook-Pro.local" time="0.077">
+  <properties/>
+  <testcase name="withAutodetection" classname="org.springframework.beans.factory.xml.SchemaValidationTests" time="0.039"/>
+  <testcase name="loadDefinitions" classname="org.springframework.beans.factory.xml.SchemaValidationTests" time="0.023"/>
+  <testcase name="withExplicitValidationMode" classname="org.springframework.beans.factory.xml.SchemaValidationTests" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

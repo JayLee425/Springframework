@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.factory.support.LookupMethodTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:44" hostname="jaydeMacBook-Pro.local" time="0.035">
+  <properties/>
+  <testcase name="testWithOverriddenLookupMethod" classname="org.springframework.beans.factory.support.LookupMethodTests" time="0.013"/>
+  <testcase name="testWithoutConstructorArg" classname="org.springframework.beans.factory.support.LookupMethodTests" time="0.006"/>
+  <testcase name="testWithOverloadedArg" classname="org.springframework.beans.factory.support.LookupMethodTests" time="0.004"/>
+  <testcase name="testWithThreeArgsShouldFail" classname="org.springframework.beans.factory.support.LookupMethodTests" time="0.005"/>
+  <testcase name="testWithOneConstructorArg" classname="org.springframework.beans.factory.support.LookupMethodTests" time="0.003"/>
+  <testcase name="testWithTwoConstructorArg" classname="org.springframework.beans.factory.support.LookupMethodTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

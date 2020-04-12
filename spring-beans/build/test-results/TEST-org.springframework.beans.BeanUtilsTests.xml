@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.BeanUtilsTests" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:39" hostname="jaydeMacBook-Pro.local" time="0.026">
+  <properties/>
+  <testcase name="testCopyPropertiesWithDifferentTypes1" classname="org.springframework.beans.BeanUtilsTests" time="0.004"/>
+  <testcase name="testCopyPropertiesWithDifferentTypes2" classname="org.springframework.beans.BeanUtilsTests" time="0.001"/>
+  <testcase name="testResolveSignatureWithArray" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testCopyPropertiesWithEditable" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testFindEditorByConvention" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testResolveSimpleSignature" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testResolveWithAndWithoutArgList" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testInstantiateClass" classname="org.springframework.beans.BeanUtilsTests" time="0.001"/>
+  <testcase name="testCopyPropertiesWithIgnore" classname="org.springframework.beans.BeanUtilsTests" time="0.001"/>
+  <testcase name="testCopyPropertiesWithIgnoredNonExistingProperty" classname="org.springframework.beans.BeanUtilsTests" time="0.002"/>
+  <testcase name="testCopyPropertiesWithInvalidProperty" classname="org.springframework.beans.BeanUtilsTests" time="0.005"/>
+  <testcase name="testResolveTypedSignature" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testSPR6063" classname="org.springframework.beans.BeanUtilsTests" time="0.003"/>
+  <testcase name="testGetPropertyDescriptors" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testResolveOverloadedSignature" classname="org.springframework.beans.BeanUtilsTests" time="0.001"/>
+  <testcase name="testResolveInvalidSignature" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testCopyProperties" classname="org.springframework.beans.BeanUtilsTests" time="0.0"/>
+  <testcase name="testBeanPropertyIsArray" classname="org.springframework.beans.BeanUtilsTests" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

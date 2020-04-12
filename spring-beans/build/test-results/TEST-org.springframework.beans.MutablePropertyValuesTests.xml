@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.MutablePropertyValuesTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:40" hostname="jaydeMacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="testAddOrOverride" classname="org.springframework.beans.MutablePropertyValuesTests" time="0.001"/>
+  <testcase name="streamContainsPropertyValue" classname="org.springframework.beans.MutablePropertyValuesTests" time="0.008"/>
+  <testcase name="testValid" classname="org.springframework.beans.MutablePropertyValuesTests" time="0.0"/>
+  <testcase name="iteratorIsEmptyForEmptyValues" classname="org.springframework.beans.MutablePropertyValuesTests" time="0.0"/>
+  <testcase name="iteratorContainsPropertyValue" classname="org.springframework.beans.MutablePropertyValuesTests" time="0.0"/>
+  <testcase name="streamIsEmptyForEmptyValues" classname="org.springframework.beans.MutablePropertyValuesTests" time="0.0"/>
+  <testcase name="testChangesOnEquals" classname="org.springframework.beans.MutablePropertyValuesTests" time="0.0"/>
+  <testcase name="testChangeOfOneField" classname="org.springframework.beans.MutablePropertyValuesTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

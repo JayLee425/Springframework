@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" tests="17" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:41" hostname="jaydeMacBook-Pro.local" time="0.026">
+  <properties/>
+  <testcase name="testLoadResourceWithSelectedDocuments" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.004"/>
+  <testcase name="testLoadNull" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.001"/>
+  <testcase name="testLoadResourcesWithOverride" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.001"/>
+  <testcase name="testYaml" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.001"/>
+  <testcase name="testLoadResourceWithoutDefaultMatch" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.002"/>
+  <testcase name="testLoadResourcesWithNestedInternalOverride" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.002"/>
+  <testcase name="testLoadArrayOfInteger" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.003"/>
+  <testcase name="testLoadEmptyArrayValue" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.0"/>
+  <testcase name="testLoadResourcesWithInternalOverride" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.0"/>
+  <testcase name="testLoadArrayOfObject" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.001"/>
+  <testcase name="testLoadArrayOfString" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.001"/>
+  <testcase name="testBadResource" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.0"/>
+  <testcase name="testLoadNonExistentResource" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.001"/>
+  <testcase name="testLoadResource" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.0"/>
+  <testcase name="testLoadResourceWithMultipleDocuments" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.001"/>
+  <testcase name="testLoadResourceWithDefaultMatch" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.002"/>
+  <testcase name="testLoadResourceWithDefaultMatchSkippingMissedMatch" classname="org.springframework.beans.factory.config.YamlPropertiesFactoryBeanTests" time="0.003"/>
+  <system-out><![CDATA[13:13:41.858 [Test worker] WARN  o.s.b.f.c.YamlPropertiesFactoryBean - Could not load map from class path resource [no-such-file.yml]: class path resource [no-such-file.yml] cannot be opened because it does not exist
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

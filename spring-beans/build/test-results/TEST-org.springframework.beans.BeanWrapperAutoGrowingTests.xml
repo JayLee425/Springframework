@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.BeanWrapperAutoGrowingTests" tests="15" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:39" hostname="jaydeMacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="getPropertyValueAutoGrowArrayBySeveralElements" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.002"/>
+  <testcase name="getPropertyValueAutoGrowListNotParameterized" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.001"/>
+  <testcase name="getPropertyValueAutoGrowListBySeveralElements" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <testcase name="setNestedPropertyValueAutoGrowMap" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.001"/>
+  <testcase name="getPropertyValueAutoGrowListFailsAgainstLimit" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <testcase name="getPropertyValueAutoGrowList" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <testcase name="setPropertyValueAutoGrowArray" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.001"/>
+  <testcase name="setPropertyValueNullValueInNestedPath" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <testcase name="getPropertyValueAutoGrowArray" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <testcase name="getPropertyValueAutoGrowMultiDimensionalArray" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <testcase name="getPropertyValueNullValueInNestedPath" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <testcase name="setPropertyValueAutoGrowList" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <testcase name="getPropertyValueAutoGrowMultiDimensionalList" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <testcase name="setPropertyValueAutoGrowMap" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.001"/>
+  <testcase name="getPropertyValueNullValueInNestedPathNoDefaultConstructor" classname="org.springframework.beans.BeanWrapperAutoGrowingTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

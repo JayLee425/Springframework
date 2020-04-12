@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.CachedIntrospectionResultsTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:38" hostname="jaydeMacBook-Pro.local" time="0.048">
+  <properties/>
+  <testcase name="acceptAndClearClassLoader" classname="org.springframework.beans.CachedIntrospectionResultsTests" time="0.038"/>
+  <testcase name="clearClassLoaderForSystemClassLoader" classname="org.springframework.beans.CachedIntrospectionResultsTests" time="0.007"/>
+  <testcase name="shouldUseExtendedBeanInfoWhenApplicable" classname="org.springframework.beans.CachedIntrospectionResultsTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

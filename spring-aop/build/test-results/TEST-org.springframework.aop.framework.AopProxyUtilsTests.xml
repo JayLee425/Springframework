@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aop.framework.AopProxyUtilsTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:11:49" hostname="jaydeMacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="testProxiedUserInterfacesWithNoInterface" classname="org.springframework.aop.framework.AopProxyUtilsTests" time="0.001"/>
+  <testcase name="testProxiedUserInterfacesWithMultipleInterfaces" classname="org.springframework.aop.framework.AopProxyUtilsTests" time="0.004"/>
+  <testcase name="testProxiedUserInterfacesWithSingleInterface" classname="org.springframework.aop.framework.AopProxyUtilsTests" time="0.0"/>
+  <testcase name="testCompleteProxiedInterfacesAdvisedNotIncludedOpaque" classname="org.springframework.aop.framework.AopProxyUtilsTests" time="0.0"/>
+  <testcase name="testCompleteProxiedInterfacesWorksWithNull" classname="org.springframework.aop.framework.AopProxyUtilsTests" time="0.0"/>
+  <testcase name="testCompleteProxiedInterfacesAdvisedNotIncluded" classname="org.springframework.aop.framework.AopProxyUtilsTests" time="0.0"/>
+  <testcase name="testCompleteProxiedInterfacesAdvisedIncluded" classname="org.springframework.aop.framework.AopProxyUtilsTests" time="0.0"/>
+  <testcase name="testCompleteProxiedInterfacesWorksWithNullOpaque" classname="org.springframework.aop.framework.AopProxyUtilsTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

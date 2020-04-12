@@ -1,0 +1,3 @@
+ÛÜn13:13:41.592 [Test worker] WARN  o.s.b.f.c.YamlMapFactoryBean - Could not load map from non-existent: planned
+ÛâÜ13:13:41.610 [Test worker] WARN  o.s.b.f.c.YamlMapFactoryBean - Could not load map from file [/Users/jaylee/IDEAWorkSpaces/SourceCode/Spring5.2/Spring-framework/spring-beans/non-exsitent-file.yml]: non-exsitent-file.yml
+ÑÝÙ13:13:41.858 [Test worker] WARN  o.s.b.f.c.YamlPropertiesFactoryBean - Could not load map from class path resource [no-such-file.yml]: class path resource [no-such-file.yml] cannot be opened because it does not exist

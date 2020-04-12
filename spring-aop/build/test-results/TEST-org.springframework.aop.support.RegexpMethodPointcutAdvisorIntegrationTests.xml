@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aop.support.RegexpMethodPointcutAdvisorIntegrationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:11:51" hostname="jaydeMacBook-Pro.local" time="0.115">
+  <properties/>
+  <testcase name="testSerialization" classname="org.springframework.aop.support.RegexpMethodPointcutAdvisorIntegrationTests" time="0.06"/>
+  <testcase name="testSinglePattern" classname="org.springframework.aop.support.RegexpMethodPointcutAdvisorIntegrationTests" time="0.023"/>
+  <testcase name="testMultiplePatterns" classname="org.springframework.aop.support.RegexpMethodPointcutAdvisorIntegrationTests" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.factory.xml.CollectionsWithDefaultTypesTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:43" hostname="jaydeMacBook-Pro.local" time="0.022">
+  <properties/>
+  <testcase name="testMapHasDefaultKeyAndValueType" classname="org.springframework.beans.factory.xml.CollectionsWithDefaultTypesTests" time="0.0"/>
+  <testcase name="testBuildCollectionFromMixtureOfReferencesAndValues" classname="org.springframework.beans.factory.xml.CollectionsWithDefaultTypesTests" time="0.0"/>
+  <testcase name="testSetHasDefaultType" classname="org.springframework.beans.factory.xml.CollectionsWithDefaultTypesTests" time="0.001"/>
+  <testcase name="testMapWithNestedElementsHasDefaultKeyAndValueType" classname="org.springframework.beans.factory.xml.CollectionsWithDefaultTypesTests" time="0.0"/>
+  <testcase name="testListHasDefaultType" classname="org.springframework.beans.factory.xml.CollectionsWithDefaultTypesTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

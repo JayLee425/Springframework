@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.factory.xml.FactoryMethodTests" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:43" hostname="jaydeMacBook-Pro.local" time="0.121">
+  <properties/>
+  <testcase name="testFactoryMethodForJavaMailSession" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.006"/>
+  <testcase name="testCanSpecifyFactoryMethodArgumentsOnSingleton" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.006"/>
+  <testcase name="testFactoryMethodWithDifferentReturnType" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.011"/>
+  <testcase name="testFactoryMethodsOnExternalClass" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.008"/>
+  <testcase name="testFactoryMethodsSingletonOnTargetClass" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.006"/>
+  <testcase name="testFactoryMethodsPrototypeOnTargetClass" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.007"/>
+  <testcase name="testFactoryMethodsWithAutowire" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.008"/>
+  <testcase name="testFactoryMethodArgumentsForNonExistingMethod" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.005"/>
+  <testcase name="testFactoryMethodsWithNullValue" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.005"/>
+  <testcase name="testNonExistingFactoryMethod" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.006"/>
+  <testcase name="testFactoryMethodsWithNullInstance" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.006"/>
+  <testcase name="testInstanceFactoryMethodWithoutArgs" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.012"/>
+  <testcase name="testPrivateFactoryMethod" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.005"/>
+  <testcase name="testFactoryMethodsWithInvalidDestroyMethod" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.009"/>
+  <testcase name="testProtectedFactoryMethod" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.005"/>
+  <testcase name="testCannotSpecifyFactoryMethodArgumentsOnSingletonAfterCreation" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.005"/>
+  <testcase name="testCanSpecifyFactoryMethodArgumentsOnFactoryMethodPrototype" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.005"/>
+  <testcase name="testFactoryMethodNoMatchingStaticMethod" classname="org.springframework.beans.factory.xml.FactoryMethodTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

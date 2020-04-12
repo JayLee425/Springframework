@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.factory.support.PropertiesBeanDefinitionReaderTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-04-07T05:13:44" hostname="jaydeMacBook-Pro.local" time="0.009">
+  <properties/>
+  <testcase name="withMultipleConstructorsArgs" classname="org.springframework.beans.factory.support.PropertiesBeanDefinitionReaderTests" time="0.002"/>
+  <testcase name="withSimpleConstructorArg" classname="org.springframework.beans.factory.support.PropertiesBeanDefinitionReaderTests" time="0.002"/>
+  <testcase name="withConstructorArgRef" classname="org.springframework.beans.factory.support.PropertiesBeanDefinitionReaderTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
