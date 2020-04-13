@@ -1,3 +1,6 @@
+*.class
+*/*.class
+*/*out/
 *.java.hsp
 *.sonarj
 *.sw*
